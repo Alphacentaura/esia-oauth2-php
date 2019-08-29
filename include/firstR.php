@@ -1,5 +1,5 @@
 <?php
-require ("funcfunc20171012.php");
+require ("func.php");
 
 ////////////////
 $scope = 'fullname email mobile birthdate gender snils id_doc';
